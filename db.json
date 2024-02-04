@@ -6,7 +6,7 @@
   "data": [
     {
       "order_id": 43674,
-      "order_details": "1 big mac with regular coke",
+      "order_details": "string",
       "cart_id": 0,
       "order_status": "pending",
       "rest_id": 221,

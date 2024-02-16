@@ -75,5 +75,17 @@
     "orderId": "43674",  
     "newStatus": "completed"
   }
+},
+"dashboard":{
+  "statusCode": 200,
+  "statusMessage": "dashboard sales",
+  "errorMessage": "",
+  "data": {
+    "totalCustomers": 13,  
+    "totalOrders": 26,
+    "profitByWeek": 300,
+    "itemsSoldByWeek": 33,
+    "itemsSoldByMonth": 33
+  }
 }
 }

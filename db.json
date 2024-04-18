@@ -5,8 +5,9 @@
   "errorMessage": "",
   "data": [
     {
+      "order_title":"McDonald's",
       "order_id": 43674,
-      "order_details": "string",
+      "order_details": "1 Mac & Cheese + 1 Loaded Fries & Regular drink",
       "cart_id": 0,
       "order_status": "pending",
       "rest_id": 221,
